@@ -13,7 +13,7 @@ USB\VID_0D8C&PID_013C&MI_00
 ![Device Outfit](565071382_10161883719153061_6813337905278784193_n.jpg)
 
 ## Driver Version
-![Driver Version](132952.png)
+![Driver Version](132802.png)
 
 ## Supported Format
 ![Supported Format](132952.png)
