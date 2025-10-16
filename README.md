@@ -2,7 +2,7 @@
 
 ## Background of this driver.
 This USB sound card is usable in win11 without manual driver installation, however Volume Control, Mute of windows will not be reflected in the output as well as DTS / AC3 encoded audio will not able to output as bitstream.
-After some google and GenAI, driver is no longer downloadable from offical site. And found that is the latest version that can seamless support win11.
+After some googling, found driver has no longer downloadable from official site. And found that is the latest version from internet works seamlessly on win11.
 
 ## Device VID/PID
 ```
