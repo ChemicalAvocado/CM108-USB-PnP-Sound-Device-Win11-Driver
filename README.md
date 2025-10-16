@@ -1,6 +1,10 @@
 # CM108-USB-PnP-Sound-Device-Win11-Driver
 
-## Background of this driver.
+```
+https://github.com/ChemicalAvocado/CM108-USB-PnP-Sound-Device-Win11-Driver/releases/download/v10.0.1.2/CM108-Drv-v10.0.1.2.zip
+```
+
+## Background
 This USB sound card is usable in win11 without manual driver installation, however Volume Control, Mute of windows will not be reflected in the output as well as DTS / AC3 encoded audio will not able to output as bitstream.
 After some googling, found driver has no longer downloadable from official site. And found that is the latest version from internet works seamlessly on win11.
 
