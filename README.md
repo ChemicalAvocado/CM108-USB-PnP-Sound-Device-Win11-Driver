@@ -1,3 +1,5 @@
 # CM108-USB-PnP-Sound-Device-Win11-Driver
-USB\VID_0D8C&amp;PID_013C&amp;MI_00 
 v10.0.1.2
+
+USB\VID_0D8C&amp;PID_013C&amp;MI_00 
+![Device Outfit]("565071382_10161883719153061_6813337905278784193_n.jpg" "Device Outfit")
